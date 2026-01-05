@@ -6,18 +6,27 @@ This project is a full-stack Capture-The-Flag (CTF) platform that simulates mode
 What You’ll Learn
 
 ==>How modern authentication systems fail in production
+
 ==>How API-centric apps introduce new attack surfaces
+
 ==>How client-side logic can bypass “secure” backends
+
 ==>How business logic flaws cause real financial breaches
+
 ==>How WAFs are bypassed in the real world
 
 Tech Stack
 
 #Python (Flask)
+
 #SQLite
+
 #JavaScript (Vanilla Fetch API)
+
 #Jinja2 Templates
+
 #JWT, OAuth Flow Simulation
+
 #Custom CTF Engine with hint system & progress tracking
 
 Disclaimer
